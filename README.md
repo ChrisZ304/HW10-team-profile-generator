@@ -8,9 +8,8 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Demo](#demo)
-- [Deployed](#deployedapplicationlink)
+- [Deployed](#deployedapplication)
 - [Languages](#languages)
-- [Screenshot](#screenshot)
 - [License](#license)
 - [Tests](#tests)
 - [Contact Me](#contact-me)
@@ -44,19 +43,13 @@ Once the application runs, it will generate an index.html file in the "dist" fol
 App Demo: https://drive.google.com/file/d/1bczFg4r_jlx7ht_E1cUC5sPr1GqAVgJh/view
 Tests Demo: https://drive.google.com/file/d/1YXM1_oc4IkiktE_JZ-2qrmYtqViFv_1L/view
 
-## Deployed application link
+## Deployed application
 
-https://github.com/chrisz304/HW10-team-profile-generator <br />
+[![Team Profile Generator](assets/images/team-profile-gen.png)](https://drive.google.com/file/d/1bczFg4r_jlx7ht_E1cUC5sPr1GqAVgJh/view)<br />
 
 ## Languages
 
 JavaScript, Bootstrap, Google Fonts, Material Icons, HTML, Node, Inquirer, Jest <br />
-
-## Screenshot
-
-[![Team Profile Generator](assets/images/HW10-app.png)](https://drive.google.com/file/d/1bczFg4r_jlx7ht_E1cUC5sPr1GqAVgJh/view)
-
-
 ## License
 
   This project is licensed under the MIT license. <br />
