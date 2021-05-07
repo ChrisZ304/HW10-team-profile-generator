@@ -8,7 +8,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Demo](#demo)
-- [Deployed](#deployedapplication)
+- [Deployed](#deployed-application)
 - [Languages](#languages)
 - [License](#license)
 - [Tests](#tests)
