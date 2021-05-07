@@ -12,7 +12,6 @@
 - [Languages](#languages)
 - [Screenshot](#screenshot)
 - [License](#license)
-- [Contributing](#contributing)
 - [Tests](#tests)
 - [Contact Me](#contact-me)
 
