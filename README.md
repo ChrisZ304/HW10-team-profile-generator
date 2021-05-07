@@ -54,7 +54,7 @@ JavaScript, Bootstrap, Google Fonts, Material Icons, HTML, Node, Inquirer, Jest 
 
 ## Screenshot
 
-[assets/images/HW10-app.png]
+[![Team Profile Generator](assets/images/HW10-app.png)](https://drive.google.com/file/d/1bczFg4r_jlx7ht_E1cUC5sPr1GqAVgJh/view)
 
 
 ## License
